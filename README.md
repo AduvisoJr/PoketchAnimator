@@ -1,4 +1,4 @@
-# Pokétch Video Player
+# Pokétch Animator
 
 <p align="center">
      <img src="https://user-images.githubusercontent.com/29354120/214530159-06652ae1-4875-4c30-b067-0e61c98159d6.png" width="500">
