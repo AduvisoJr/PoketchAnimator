@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "poketch-video-player"
+version = "0.1.0"
+description = "Video player for the 'Dot Artist' Pokétch app from Pokémon DPPt."
+authors = ["Bentroen <bemcdc@gmail.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+opencv-python = "^4.6.0"
+Pillow = "^9.2.0"
+progressbar2 = "^4.0.0"
+
+[tool.poetry.dev-dependencies]
+black = "^22.10.0"
+isort = "^5.10.1"
+
+[tool.isort]
+profile = "black"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
