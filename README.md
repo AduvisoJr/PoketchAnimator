@@ -8,7 +8,7 @@ Video player for the 'Dot Artist' Pokétch app from Pokémon DPPt. It works by g
 
 The app's screen is composed of a 24x20 pixel grid of 8x8 pixel tiles. Each tile can have four different colors, which alternate by touching each pixel.
 
-[(Demo video)](https://youtu.be/_p1q9_shSTw)
+[(Demo video)](https://youtu.be/eeI-YYBxSa4)
 
 ## Usage
 
