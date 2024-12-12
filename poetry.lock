@@ -108,7 +108,7 @@ docs = ["sphinxext-opengraph", "sphinx-removed-in", "sphinx-issues (>=3.0.1)", "
 [[package]]
 name = "platformdirs"
 version = "2.5.2"
-description = "A small Python module for determining appropriate platform-specific dirs, e.g. a \"user data dir\"."
+description = "A small Python module for determining appropriate platform-specific dirs, e.g. a \"user data dir\"."      
 category = "dev"
 optional = false
 python-versions = ">=3.7"
@@ -120,7 +120,7 @@ test = ["appdirs (==1.4.4)", "pytest-cov (>=2.7)", "pytest-mock (>=3.6)", "pytes
 [[package]]
 name = "progressbar2"
 version = "4.0.0"
-description = "A Python Progressbar library to provide visual (yet text based) progress to long running operations."
+description = "A Python Progressbar library to provide visual (yet text based) progress to long running operations."      
 category = "main"
 optional = false
 python-versions = ">=3.7.0"
@@ -143,7 +143,7 @@ python-versions = ">3.6.0"
 [package.extras]
 docs = ["mock", "sphinx", "python-utils"]
 loguru = ["loguru"]
-tests = ["flake8", "pytest", "pytest-cov", "pytest-mypy", "pytest-asyncio", "sphinx", "types-setuptools", "loguru"]
+tests = ["flake8", "pytest", "pytest-cov", "pytest-mypy", "pytest-asyncio", "sphinx", "types-setuptools", "loguru"]     
 
 [[package]]
 name = "tomli"
